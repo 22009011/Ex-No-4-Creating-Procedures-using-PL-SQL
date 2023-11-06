@@ -2,6 +2,9 @@
 
 ### AIM: To create a procedure using PL/SQL.
 
+### DATE:
+
+
 ### Steps:
 1. Create employee table with following attributes (empid NUMBER, empname VARCHAR(10), dept VARCHAR(10),salary NUMBER);
 2. Create a procedure named as insert_employee data.
